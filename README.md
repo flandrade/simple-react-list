@@ -1,6 +1,8 @@
 
 # Simple Rect List with TypeScript
 
+[![Build Status](https://travis-ci.org/flandrade/simple-react-list.svg?branch=master)](https://travis-ci.org/flandrade/simple-react-list)
+
 React project with TypeScript to show a simple list.
 
 ## Available Scripts
