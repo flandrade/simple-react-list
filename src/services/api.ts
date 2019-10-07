@@ -15,4 +15,4 @@ export const getUsers: getUsers = function() {
   const url = "http://jsonplaceholder.typicode.com/users";
   return fetch(url)
     .then(res => res.json());
-}
+};
