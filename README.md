@@ -5,6 +5,8 @@
 
 React project with TypeScript to show a simple list.
 
+![alt text](https://github.com/flandrade/simple-react-list/raw/master/public/screenshot.png "List")
+
 ## Available Scripts
 
 This project was bootstrapped with
